@@ -3,6 +3,7 @@
 ### designer · developer · digital creative
 
 i'm **emc0ded**, a designer and developer who loves building things that are as pretty as they are functional.
+
 ---
 
 ## 🛠 tech stack
